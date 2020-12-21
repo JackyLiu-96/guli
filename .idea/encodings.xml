@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/guli-commonservice-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-commonservice-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-commonservice-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-framework-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-edu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-edu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-statistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-sysuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-sysuser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-ucenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-vod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-vod/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
