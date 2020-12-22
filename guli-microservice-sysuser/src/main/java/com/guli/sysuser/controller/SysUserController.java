@@ -35,7 +35,7 @@ public class SysUserController {
 		return R.ok()
 				.data("roles", "admin")
 				.data("name", "admin")
-				.data("avatar","https://guli-file.oss-cn-beijing.aliyuncs.com/avatar/default.jpg");
+				.data("avatar","https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif");
 	}
 
 	@PostMapping("logout")
